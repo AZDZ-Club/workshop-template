@@ -1,6 +1,8 @@
 # Workshop Title
 
-![AZDZ-Banner](./.azdz/logo-horizontal-dark.png)
+<p align="center">
+    ![AZDZ-Banner](./.azdz/logo-horizontal-dark.png)
+</p>
 
 > [TOPIC] Replace this with Workshop Topic from activity log of this workshop
 
