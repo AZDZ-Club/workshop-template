@@ -1,7 +1,7 @@
 # Workshop Title
 
 <p align="center">
-    ![AZDZ-Banner](./.azdz/logo-horizontal-dark.png)
+    <img width="500" height="250" src="./.azdz/logo-horizontal-dark.png"/>
 </p>
 
 > [TOPIC] Replace this with Workshop Topic from activity log of this workshop
