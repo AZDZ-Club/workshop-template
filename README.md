@@ -1,5 +1,7 @@
 # Workshop Title
 
+![AZDZ-Banner](./.azdz/logo-horizontal-dark.png)
+
 > [TOPIC] Replace this with Workshop Topic from activity log of this workshop
 
 Replace this paragraph with `Abstract` from the activity log.
